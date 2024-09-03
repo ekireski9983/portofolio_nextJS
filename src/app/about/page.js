@@ -1,6 +1,6 @@
 export default function profile () {
     return(
-<div class="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+<div class="max-w-xxl p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Profil saya</h5>
     <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Perkenalkan Saya Rezky Jayadi saputra mahasiswa dari Kampus Politeknik LP3I jakarta jurusan manajemen Informatika. meskipun saya tidak aktif dalam organisasi kampus, saya menunjukkan dedikasi saya yang tinggi dalam menyelesaikan tugas kuliah dengan baik dan tepat waktu. saya memilih ketertarikkan Di bidang UI/UX Design dan juga tertarik dengan database SQL</p>
         
