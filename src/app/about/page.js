@@ -1,5 +1,11 @@
 export default function profile () {
     return(
+<div class="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+    <a href="#">
+        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Profil saya</h5>
+    </a>
+    <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Perkenalkan Saya Rezky Jayadi saputra mahasiswa dari Kampus Politeknik LP3I jakarta jurusan manajemen Informatika. meskipun saya tidak aktif dalam organisasi kampus, saya menunjukkan dedikasi saya yang tinggi dalam menyelesaikan tugas kuliah dengan baik dan tepat waktu. saya memilih ketertarikkan Di bidang UI/UX Design dan juga tertarik dengan database SQL</p>
+        
 <ol class="relative border-s border-gray-200 dark:border-gray-700">                  
     <li class="mb-10 ms-4">
         <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
@@ -83,6 +89,8 @@ export default function profile () {
     </li>
 </ol>
 </ol>
+</div>
+
 
     );
 }
