@@ -32,6 +32,5 @@ export default function work(){
                 </div>
             </div>
         </div>
-        
     );
 }
